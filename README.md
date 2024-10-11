@@ -5,3 +5,5 @@ s2371072 shirahige keito
 s2371014 honda keita
 
 s2371129 kinoshita kouki
+
+s2271128 Ueda Junta
