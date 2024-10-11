@@ -7,3 +7,5 @@ s2371014 honda keita
 s2371129 kinoshita kouki
 
 s2271128 Ueda Junta
+
+s2371112 Yamamoto Yuki
